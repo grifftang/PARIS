@@ -1,0 +1,2 @@
+Name: hexagons_3.png | Observed Time: 0 | Time Given: 5 | Time Between: 0 | Orientation: left | Animation: Move | Speed: Quickly | Background Color: (255, 255, 255)
+Name: simple_bird.png | Observed Time: 0 | Time Given: 5 | Time Between: 0 | Orientation: right | Animation: Move | Speed: Quickly | Background Color: (255, 255, 255)

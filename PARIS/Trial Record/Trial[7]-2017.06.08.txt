@@ -1,0 +1,3 @@
+Name: circle.png | Observed Time: 0 | Time Given: 10 | Time Between: 0 | Orientation: left | Animation: Move | Speed: Quickly | Background Color: (0, 255, 255)
+Name: blue_rectangle.png | Observed Time: 0 | Time Given: 10 | Time Between: 0 | Orientation: right | Animation: Move | Speed: Quickly | Background Color: (0, 255, 255)
+Name: random_polygon.png | Observed Time: 0 | Time Given: 10 | Time Between: 0 | Orientation: left | Animation: Move | Speed: Quickly | Background Color: (0, 255, 255)

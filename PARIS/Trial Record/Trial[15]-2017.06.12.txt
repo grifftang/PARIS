@@ -1,0 +1,1 @@
+Name: random_polygons_2.png | Observed Time: 0 | Time Given: 1 | Time Between: 1 | Orientation: left | Animation: None | Speed: None | Background Color: (0, 0, 255)

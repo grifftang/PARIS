@@ -1,0 +1,5 @@
+Name: random_polygons_2.png | Observed Time: 0 | Time Given: 5 | Time Between: 10 | Orientation: left | Animation: None | Speed: None | Background Color: (255, 150, 0)
+Name: Runner_stickman.png | Observed Time: 0 | Time Given: 5 | Time Between: 10 | Orientation: left | Animation: None | Speed: None | Background Color: (255, 150, 0)
+Name: blue_rectangle.png | Observed Time: 0 | Time Given: 5 | Time Between: 10 | Orientation: left | Animation: None | Speed: None | Background Color: (255, 150, 0)
+Name: star.png | Observed Time: 0 | Time Given: 5 | Time Between: 10 | Orientation: left | Animation: None | Speed: None | Background Color: (255, 150, 0)
+Name: triangle.png | Observed Time: 0 | Time Given: 5 | Time Between: 10 | Orientation: left | Animation: None | Speed: None | Background Color: (255, 150, 0)

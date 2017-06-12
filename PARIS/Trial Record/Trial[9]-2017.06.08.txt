@@ -1,0 +1,2 @@
+Name: simple_line.png | Observed Time: 0 | Time Given: 5 | Time Between: 0 | Orientation: left | Animation: Move | Speed: Quickly | Background Color: (192, 192, 192)
+Name: circle.png | Observed Time: 0 | Time Given: 5 | Time Between: 0 | Orientation: right | Animation: None | Speed: None | Background Color: (192, 192, 192)
